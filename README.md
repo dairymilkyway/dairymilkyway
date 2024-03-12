@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gwyn</h1>
 <h3 align="center">tinesting ko lang to for future purposes</h3>
 
-<div class="center">
-    <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/b0698ea9-4009-4d54-83ec-0022d8d93c10" alt="Centered Image">
-  </div>
+
+<center><img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/b0698ea9-4009-4d54-83ec-0022d8d93c10" alt="Centered Image"></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
