@@ -1,4 +1,4 @@
-<h3 align="center"><span id="animated-text"></span></h3>
+<h3 align="center"><span id="animated-text">Hello!</span></h3>
 
 <style>
   @keyframes typing {
@@ -6,35 +6,16 @@
     to { width: 100% }
   }
 
-  #animated-text {
+  #animated-text::after {
+    content: "";
     border-right: 2px solid black;
     white-space: nowrap;
     overflow: hidden;
     display: inline-block;
-    animation: typing 5s steps(40, end);
+    animation: typing 5s steps(40, end); /* Adjust the animation duration as needed */
   }
 </style>
 
-<script>
-
-  var span = document.getElementById('animated-text');
-
-  var text = "Hello!"; 
-
-  var str = "";
-
-  for (var i = 0; i < text.length; i++) {
-
-    str += text.charAt(i);
-    
-    setTimeout(function(y) {
-      return function() {
- 
-        span.textContent = y;
-      }
-    }(str), i * 100); 
-  }
-</script>
 
 
 
