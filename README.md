@@ -1,4 +1,4 @@
-<h3 align="center"><span id="animated-text"></span></h3>
+<h3 align="center"><span id="animated-text">Your text here</span></h3>
 
 <style>
   @keyframes typing {
@@ -6,12 +6,13 @@
     to { width: 100% }
   }
 
-  #animated-text {
+  #animated-text::after {
+    content: attr(data-text);
     border-right: 2px solid black;
     white-space: nowrap;
     overflow: hidden;
     display: inline-block;
-    animation: typing 5s steps(40, end);
+    animation: typing 5s steps(40, end); /* Adjust the animation duration as needed */
   }
 </style>
 
