@@ -1,4 +1,41 @@
-<h3 align="center">tinesting ko lang to for future purposes</h3>
+<h3 align="center"><span id="animated-text"></span></h3>
+
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  #animated-text {
+    border-right: 2px solid black;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    animation: typing 5s steps(40, end);
+  }
+</style>
+
+<script>
+
+  var span = document.getElementById('animated-text');
+
+  var text = "Hello!"; 
+
+  var str = "";
+
+  for (var i = 0; i < text.length; i++) {
+
+    str += text.charAt(i);
+    
+    setTimeout(function(y) {
+      return function() {
+ 
+        span.textContent = y;
+      }
+    }(str), i * 100); 
+  }
+</script>
+
 
 
 <p align="center"> <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/b0698ea9-4009-4d54-83ec-0022d8d93c10" alt="Centered Image"> </p>
