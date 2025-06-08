@@ -1,8 +1,5 @@
 <p align="center"> <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/3b16ec1d-7f38-4b4d-876b-3bec6cd0f646" alt="Centered Image"> </p>
 
-# 💻Currently Working On:
-<h1 align="center">React/React Native ⚛ </h1>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gwyngwynieee) 
 
