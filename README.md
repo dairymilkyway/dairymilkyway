@@ -8,11 +8,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairymilkyway&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<div align="center">
-  <h1>Now Playing 🎧</h1>
-
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r333bgam4bsa76sl5oxw6qv33i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
-
