@@ -16,11 +16,14 @@ A passionate developer who loves turning complex problems into simple, beautiful
 ---
 
 ## 🌐 Let's Connect!
-
+<p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwyn-barte-a79934365)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white)](gwyn.portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://gwyn-portfolio.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gwyngwynieee)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dairymilkyway)
+
+</p>
 
 ---
 
@@ -70,10 +73,13 @@ I use a versatile stack to deliver high-quality, full-stack solutions:
 ## 📈 GitHub Stats & Activity
 
 See what I've been actively working on:
+<p align="center">
 
 | Top Languages | Streak & Contributions |
 |:---:|:---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairymilkyway&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dairymilkyway&theme=dark&hide_border=false) |
+
+</p>
 
 ---
 
