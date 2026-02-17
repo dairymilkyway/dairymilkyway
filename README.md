@@ -1,8 +1,4 @@
-<!-- Centered Profile Image at the Top -->
-<p align="center">
-  <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/3b16ec1d-7f38-4b4d-876b-3bec6cd0f646" alt="Gwyn's Image">
-</p>
-
+<p align="center"> <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/3b16ec1d-7f38-4b4d-876b-3bec6cd0f646" alt="Centered Image"> </p>
 
 <div align="center">
   
@@ -68,4 +64,4 @@ See what I've been actively working on:
 
 ---
 
-<p align="center"> <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/3b16ec1d-7f38-4b4d-876b-3bec6cd0f646" alt="Centered Image"> </p>
+
