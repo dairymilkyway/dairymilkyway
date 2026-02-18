@@ -54,7 +54,7 @@ See what I've been actively working on:
 
 | **Core Stats** | **Commit Streak** |
 | :---: | :---: |
-| [![Stats](https://github-readme-stats-fast.vercel.app/api?username=dairymilkyway&show_icons=true&bg_color=000000&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&hide_border=true&count_private=true)](https://github.com/dairymilkyway) | [![Streak](https://streak-stats.demolab.com/?user=dairymilkyway&background=000000&fire=ff4d4d&ring=ff4d4d&currStreakNum=ffffff&stroke=000000&hide_border=true)](https://github.com/dairymilkyway) |
+| [![Stats](https://github-readme-stats-fast.vercel.app/api?username=dairymilkyway&show_icons=true&bg_color=000000&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&hide_border=true&count_private=true)](https://github.com/dairymilkyway) | [![Streak](https://streak-stats.demolab.com/?user=dairymilkyway&background=000000&fire=ff4d4d&ring=ff4d4d&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&stroke=000000&hide_border=true)](https://github.com/dairymilkyway) |
 
 | **Most Used Languages** | **31-Day Activity** |
 | :---: | :---: |
