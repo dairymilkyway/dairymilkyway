@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://github.com/dairymilkyway/dairymilkyway/assets/129609726/3b16ec1d-7f38-4b4d-876b-3bec6cd0f646" alt="Centered Image"> </p>
-
 <div align="center">
-  
-## Tech Stack
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gwyn;Full-Stack+Developer;Mobile+Specialist)](https://git.io/typing-svg)
+
+## <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=header&text=HERE%20IS%20MY%20TECH%20STACK&fontSize=30&animation=fadeIn&fontAlignY=35" />
 
 ### Frontend & UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,37 +36,28 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect!
-
-  
+### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwyn-barte-a79934365)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://gwyn-portfolio.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gwyngwynieee)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dairymilkyway)
 
 </div>
 
----
-
 <div align="center">
   
-## 📈 GitHub Stats & Activity
+---  
+
+### 📈 GitHub Stats & Activity
 
 See what I've been actively working on:
 
 
-| Top Languages | Streak & Contributions |
-|:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairymilkyway&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dairymilkyway&theme=dark&hide_border=false) |
+| **Core Stats** | **Commit Streak** |
+| :---: | :---: |
+| [![Stats](https://github-readme-stats-fast.vercel.app/api?username=dairymilkyway&show_icons=true&bg_color=000000&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&hide_border=true&count_private=true)](https://github.com/dairymilkyway) | [![Streak](https://streak-stats.demolab.com/?user=dairymilkyway&background=000000&fire=ff4d4d&ring=ff4d4d&currStreakNum=ffffff&stroke=000000&hide_border=true)](https://github.com/dairymilkyway) |
+
+| **Most Used Languages** | **31-Day Activity** |
+| :---: | :---: |
+| [![Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dairymilkyway&layout=compact&langs_count=10&show_icons=true&bg_color=000000&title_color=39d353&text_color=ffffff&hide_border=true)](https://github.com/dairymilkyway) | [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dairymilkyway&bg_color=000000&color=39d353&line=26a641&point=39d353&hide_border=true&area=true)](https://github.com/dairymilkyway) |
 
 </div>
-
----
-
-
